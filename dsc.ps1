@@ -9,3 +9,5 @@ Configuration ConfigureWeb
         } 
     } 
 }
+
+ConfigureWeb -OutputPath C:\Users\Default\Test
