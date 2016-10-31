@@ -13,4 +13,4 @@ Import-DscResource -ModuleName 'PSDesiredStateConfiguration'
     } 
 }
 
-ConfigureWeb -OutputPath C:\Users\Default\Test
+ConfigureWeb -OutputPath .
